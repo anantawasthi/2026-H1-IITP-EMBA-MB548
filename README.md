@@ -18,8 +18,6 @@
 
 - **Research Interests:** Generative AI, Explainable AI (XAI), Privacy & Ethics in AI, Low Resource Machine Learning.
 
-
-
 📬 Contact Information
 
 - **Mobile:** +91 88846 92929
